@@ -3,6 +3,7 @@ Test repo to show linear github integration
 
 ## Background
 This is my first ticket, I'm changing the readme!
+edit
 
 ## Usage
 This project demonstrates how to use [Linear](https://linear.app) and GitHub
